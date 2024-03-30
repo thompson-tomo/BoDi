@@ -12,10 +12,11 @@
     <language>en-US</language>
     <projectUrl>https://github.com/gasparnagy/BoDi</projectUrl>
     <!--<iconUrl>TODO</iconUrl>-->
-    <licenseUrl>https://github.com/gasparnagy/BoDi/raw/master/LICENSE.txt</licenseUrl>
+    <license type="expression">APACHE-2.0</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <copyright>Copyright (C) 2010-2019, Gaspar Nagy (http://gasparnagy.com)</copyright>
     <tags>dependency injection, embeddable</tags>
+    <repository type="git" url="https://github.com/SpecFlowOSS/BoDi.git" />
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System.Configuration" />
     </frameworkAssemblies>
